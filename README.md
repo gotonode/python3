@@ -6,7 +6,7 @@ Dockerfile contents (click [here](https://github.com/gotonode/python3/blob/maste
 ```
 FROM ubuntu:16.04
 
-WORKDIR /python
+WORKDIR /python3
 
 RUN apt-get update && apt-get install -y python3 && apt-get install -y sqlite
 ```
