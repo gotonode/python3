@@ -1,4 +1,7 @@
 # Python 3 for Docker via Ubuntu 16.04
+
+[![Codefresh build status]( https://g.codefresh.io/api/badges/pipeline/gotonode_marketplace/gotonode%2Fpython3%2Fpython3?branch=master&key=eyJhbGciOiJIUzI1NiJ9.NWMyMTM5NzM3NWVhMDExZjkxNjZhMzk3.injO-ZcBuCv9g009YPl22PkE7gSPEgXvi5zkL1P2JGw&type=cf-1)]( https://g.codefresh.io/pipelines/python3/builds?repoOwner=gotonode&repoName=python3&serviceName=gotonode%2Fpython3&filter=trigger:build~Build;branch:master;pipeline:5c22513d75a47595c087b73d~python3)
+
 This contains the **Python 3** environment for use with **Docker**.  
 We've also included **SQLite** as the database engine. Backend operating system is **Ubuntu 16.04**.
 
